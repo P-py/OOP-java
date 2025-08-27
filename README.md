@@ -31,6 +31,7 @@ OOP-java/
 │-- exceptions/ # Exception handling
 │-- collections/ # Working with Java Collections
 │-- projects/ # Larger assignments and case studies
+│-- user-io/ # Examples for different ways of handling I/O
 ```
 
 ## 🚀 How to Run  
